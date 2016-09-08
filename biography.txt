@@ -1,8 +1,8 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 My Name is Jake Gould
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+I became interested in data science both through professional and personal experiences. I feel in small to medium businesses there is a huge oppurtunity to use data to define target markets. I see in schools the growing interest to use data to help identify student and teacher strength. I personally use incredible amounts of data as I train for triathlons, to help undertand my body.
+I'm concerned about my lack of programming experience. I have done some "home" programming to learn SQL,HTML and JAVA but I feel after reading the beginning course instruction, I will be really challenged in this area. 
+My main use of statistics is through excel based databases and data for marketing research. My last formal statistic courses were in college, which was 16 years ago. 
+I do not have experience with R or Python?
+I hope to get a better foundation of programming as I "run to catch up." I want to understand what programs are used for what type of problem solving. 
+I'd like you to know I'm a willing learner, and I that I have an interest in learning, not just passing a course. 
